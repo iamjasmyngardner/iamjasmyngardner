@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm currently enrolled in a mobile app and development course, which is requiring me to create a GitHub profile. I will be documenting my coding experience. 
+
+I've dibbled and dabbled (LOL) in native React App development, SQL, JavaScript, and HTML so far. Again, I'm far from an expert. 
+
 <!--
 **iamjasmyngardner/iamjasmyngardner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
